@@ -1,0 +1,9 @@
+.container {
+  max-width: 950px;
+  margin: 0 auto;
+}
+
+.header__list {
+  display: flex;
+  justify-content: space-between;
+}
